@@ -1,0 +1,7 @@
+ubuntu: apt
+debian: apt
+fedora: dnf
+centos: dnf
+rhel: dnf
+arch: pacman
+manjaro: pacman
